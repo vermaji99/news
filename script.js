@@ -1,3 +1,8 @@
+
+
+console.log('shubham');
+
+
 const API_KEY="b063fa014e9f46e6990a10b2c9c89b24";
  const url="https://newsapi.org/v2/everything?q=";
 //  const url="https://streaming-availability.p.rapidapi.com/countries";
